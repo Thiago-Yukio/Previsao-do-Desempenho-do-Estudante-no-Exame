@@ -19,6 +19,8 @@ O projeto demonstra um fluxo completo de Ciência de Dados, passando por:
 * seleção do melhor modelo;
 * implantação em uma aplicação web interativa.
 
+link do projeto: https://previsao-do-desempenho-do-estudante-no-exame-5grhnw6ngmtunyskd.streamlit.app/
+
 ---
 
 ## Objetivos:
